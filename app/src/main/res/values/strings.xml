@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">google Place</string>
+
+    <string name="your_location">Your Location : %1$s</string>
+    <string name="label_loading">Loading&#8230;</string>
+    <string name="title_activity_picker">Location</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_api_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAzQKCLNtDnR3GFRYIUBQrQk-PVtDevf_Y</string>
+</resources>
